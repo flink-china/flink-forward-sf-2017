@@ -4,6 +4,8 @@ All the slides have been collected under folder [slides](https://github.com/flin
 
 🔥 is the session which is recommended to see based on my opinion.
 
+## Sessions
+
 - 🔥Stephan Ewen - **Convergence of real-time analytics & data-driven applications**: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-stephan-ewen-convergence-of-realtime-analytics-and-datadriven-applications) and [Vedio](https://www.youtube.com/watch?v=i6RY9GFdlg4&index=1&list=PLDX4T_cnKjD2UC6wJr_wRbIvtlMtkc-n2)
 - Srikanth Satya - **Pravega**: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-srikanth-satya-tom-kaitchuck-pravega-storage-reimagined-for-streaming-world) and [Vedio](https://www.youtube.com/watch?v=K19TUdwzCgk&index=2&list=PLDX4T_cnKjD2UC6wJr_wRbIvtlMtkc-n2)
 - Erik de Nooij - **StreamING models, Realtime model deployment of ML capabilites**: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-erik-de-nooij-streaming-models-how-ing-adds-models-at-runtime-to-catch-fraudsters) and [Vedio](https://www.youtube.com/watch?v=Do7C4UJyWCM&index=3&list=PLDX4T_cnKjD2UC6wJr_wRbIvtlMtkc-n2)
