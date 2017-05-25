@@ -5,7 +5,7 @@ In April 2017, Flink Forward came to San Francisco to welcome the Apache Flink c
 All the slides have been collected under folder [slides](https://github.com/flink-china/flink-forward-sf-2017/tree/master/slides), you can download directly.
 All the videos are available on [YouTube Channel](https://www.youtube.com/playlist?list=PLDX4T_cnKjD2UC6wJr_wRbIvtlMtkc-n2). 
 
-🔥 is the session which is recommended to see based on my opinion.
+🔥 is the session which is recommended to see based on my opinion (Jark Wu).
 
 ## Sessions
 
